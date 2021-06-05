@@ -71,7 +71,7 @@ body {
   }
 
   .hero {
-    background: url("https://olszewski-adwokat.eu/wp-content/uploads/2018/10/Law-1.jpg");
+    background-image: url(Law-1.jpg);
     background-position: top left;
     background-size: cover;
     height: 100vh;
