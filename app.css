@@ -71,7 +71,7 @@ body {
   }
 
   .hero {
-    background-image: url(Law-1.jpg);
+    background-image: url("Law-1.jpg");
     background-position: top left;
     background-size: cover;
     height: 100vh;
